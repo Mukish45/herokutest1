@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run cifar10.py
+web: sh setup.sh && streamlit run cifar.py
